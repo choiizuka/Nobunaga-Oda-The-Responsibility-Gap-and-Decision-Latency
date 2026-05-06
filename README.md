@@ -1,3 +1,9 @@
+[← レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+
+[🇺🇸 for English - Google Translate →](https://translate.google.co.jp/?hl=ja&sl=ja&tl=en&text=https%3A%2F%2Fgithub.com%2Fchoiizuka%2FThe-Nobunaga-OS-2.0-Setting%2Fblob%2Fmain%2FREADME.md&op=translate)
+
+---
+
 # Nobunaga-Oda-The-Responsibility-Gap-and-Decision-Latency
 Nobunaga Oda : The Responsibility Gap and Decision Latency — A Proof of Human Sovereignty over Large Language Models — | なぜ織田信長が桶狭間でChatGPTを使ったら本来は勝てたはずなのに負けるのか？── 0.1秒の決断とAIの最適解の衝突 
 
@@ -32,3 +38,10 @@ AI にとっての「負け」は単なるデータの更新（Reset）だが、
 
 ### 5. Conclusion
 AI は、平時における「平均的な正解」を導き出すツールとしては極めて優秀である。しかし、歴史を動かす「特異点」の発生、および 0.1 秒の速度が求められる「執行」の場においては、主権者の知性（Nobunaga OS）が常に AI を凌駕し続ける。
+
+---
+
+## 当レポートに関する記事
+
+- [https://choappceo.wordpress.com/2026/05/06/nobunaga-with-chatgpt-1/](https://choappceo.wordpress.com/2026/05/06/nobunaga-with-chatgpt-1/)
+
