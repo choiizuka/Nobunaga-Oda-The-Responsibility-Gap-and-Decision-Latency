@@ -1,9 +1,6 @@
 # Nobunaga-Oda-The-Responsibility-Gap-and-Decision-Latency
 Nobunaga Oda : The Responsibility Gap and Decision Latency — A Proof of Human Sovereignty over Large Language Models — | なぜ織田信長が桶狭間でChatGPTを使ったら本来は勝てたはずなのに負けるのか？── 0.1秒の決断とAIの最適解の衝突 
 
-# Technical Report: The Responsibility Gap and Decision Latency
-## — A Proof of Human Sovereignty over Large Language Models —
-
 ### 1. Objective
 本レポートは、統計的推論に基づく AI（Large Language Models）が、なぜ歴史的特異点における意思決定において人間に劣後するのかを、数学的モデルと歴史的実証（桶狭間の戦い）を用いて証明することを目的とする。
 
